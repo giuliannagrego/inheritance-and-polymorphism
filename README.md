@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Herança
 
 - É um tipo de associação que permite que uma classe herde _todos_ dados e comportamentos de outra
@@ -151,5 +150,3 @@
 > x.withdraw(50.0);
 >
 > y.withdraw(50.0);
-
->>>>>>> origin/main
